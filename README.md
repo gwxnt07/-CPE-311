@@ -1,7 +1,6 @@
+# HOWDY! 👋 Welcome to My GitHub Space!
 
 ![6Ug0](https://github.com/gwxnt07/CPE-311/assets/157346683/9b9ea186-3b30-4248-86d2-bf5824e6f095)
-
-# HOWDY! 👋 Welcome to My GitHub Space!
 
 This is my CPE 311 repository, where I'm excited to share hands-on activities, assignments, and projects for the course. Whether you found me on purpose or by chance, I'm genuinely happy to have you here!
  
