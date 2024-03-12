@@ -1,5 +1,5 @@
 
-![6Ug0](https://github.com/gwxnt07/CPE-311/assets/157346683/09c65943-b40a-4f96-be3b-5632021ad1ce)
+![6Ug0](https://github.com/gwxnt07/CPE-311/assets/157346683/9b9ea186-3b30-4248-86d2-bf5824e6f095)
 
 # HOWDY! 👋 Welcome to My GitHub Space!
 
