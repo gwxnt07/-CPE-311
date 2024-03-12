@@ -1,7 +1,5 @@
 ![6Ug0](https://github.com/gwxnt07/CPE-311/assets/157346683/23102fba-25a0-4dad-8621-4be7c05885b5)
 
-# Elective 1 - Computational Thinking with Python
-
 # HOWDY! 👋 Welcome to My GitHub Space!
 
 This is my CPE 311 repository, where I'm excited to share hands-on activities, assignments, and projects for the course. Whether you found me on purpose or by chance, I'm genuinely happy to have you here!
