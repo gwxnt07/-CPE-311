@@ -1,5 +1,4 @@
-
-                                                              ![6Ug0](https://github.com/gwxnt07/CPE-311/assets/157346683/23102fba-25a0-4dad-8621-4be7c05885b5)
+![6Ug0](https://github.com/gwxnt07/CPE-311/assets/157346683/23102fba-25a0-4dad-8621-4be7c05885b5)
 
 # Elective 1 - Computational Thinking with Python
 
