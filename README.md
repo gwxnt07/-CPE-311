@@ -19,4 +19,7 @@ My leisure time often involves watching videos, with a particular focus on conte
 - **Email:** qgdesperat@tip.edu.ph
 - **Facebook:** Gwyneth Esperat
 
+- Other Repository
+- https://github.com/gwxnt07/Aggregating-Dataframes
+
 Feel free to explore my journey through the world of Computer Engineering, and may everyone find joy and success in their coding endeavors
